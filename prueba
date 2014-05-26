@@ -2,3 +2,4 @@ a<-function(a,b){
 suma=a+b
 return(suma)
 }
+a(7,7)
